@@ -8,7 +8,6 @@
 
 A badge generator service to count visitors of your markdown file.
 
-[The story of visitor badge](https://dev.to/jwenjian/the-story-of-visitor-badge-46mm)
 
 Examples:
 
@@ -62,10 +61,6 @@ Examples:
 
 ---
 
-
-If you deployed forked project to your stable server and want to provide a free, stable service, which is very kind, please raise an issue to tell me so I can list your service url here:
-
-> Before you do that, **DO update the md5_key in .env file to `guess_what`** so that former users will not lose their count, otherwise the count will start from 1.
 
 Other public services:
 
